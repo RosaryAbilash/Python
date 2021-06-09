@@ -1,5 +1,5 @@
 word = "secret"
-
+# You can use Random Module and word list
 guesses = []
 errors = 7
 done = False
